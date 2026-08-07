@@ -1,23 +1,26 @@
 <!-- Gengar GitHub Profile README -->
 
-<h1 align="center">Hello, I'm <span style="color: #705898;">Zeeshan Shaikh</span></h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MERN+Stack+Enthusiast;React+%C2%B7+Node.js+%C2%B7+MongoDB&font=Fira+Code&size=22&center=true&width=480&height=50&color=705898&vCenter=true&pause=800" alt="Typing effect intro" />
-</h3>
-
-<p align="center">
-  <a href="https://zeeshanshaikh95.github.io/my_portfolio/">
-    <img src="https://img.shields.io/badge/My_Portfolio-705898?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/zeeshan-shaikh-53a39027b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="200" alt="Gengar" style="image-rendering: pixelated; opacity: 0.9;" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <h1>Hello, I'm <span style="color: #705898;">Zeeshan Shaikh</span></h1>
+      <h3>
+        <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MERN+Stack+Enthusiast;React+%C2%B7+Node.js+%C2%B7+MongoDB&font=Fira+Code&size=22&center=true&width=480&height=50&color=705898&vCenter=true&pause=800" alt="Typing effect intro" />
+      </h3>
+      <p>
+        <a href="https://zeeshanshaikh95.github.io/my_portfolio/">
+          <img src="https://img.shields.io/badge/My_Portfolio-705898?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+        </a>
+        <a href="https://www.linkedin.com/in/zeeshan-shaikh-53a39027b/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </p>
+    </td>
+    <td valign="middle">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="200" alt="Gengar" style="image-rendering: pixelated; opacity: 0.9;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
