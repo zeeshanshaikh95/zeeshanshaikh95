@@ -60,6 +60,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanshaikh95&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshanshaikh95&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
