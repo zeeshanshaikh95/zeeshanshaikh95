@@ -1,12 +1,14 @@
 <!-- Gengar 👻 GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="110" alt="Gengar pixel art" style="image-rendering: pixelated;" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="110" alt="Animated Gengar pixel art" style="image-rendering: pixelated;" />
   <br />
   👋 Hello, I'm <span style="color: #705898;">Zeeshan Shaikh</span>
 </h1>
 
-<h3 align="center">💻 Full-Stack Developer · MERN Stack</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MERN+Stack+Enthusiast;React+%C2%B7+Node.js+%C2%B7+MongoDB&font=Fira+Code&size=22&center=true&width=480&height=50&color=705898&vCenter=true&pause=800" alt="Typing effect intro" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshanshaikh95&label=Profile%20Views&color=705898&style=flat" alt="Profile views" />
