@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="200" align="right" alt="Gengar" />
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="180" align="right" alt="Gengar" />
   </p>
   <h1>Hello, I'm <span>Zeeshan Shaikh</span></h1>
   <h3>
