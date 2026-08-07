@@ -16,7 +16,7 @@
 </p>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="80" alt="Gengar" style="image-rendering: pixelated; opacity: 0.9;" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="130" alt="Gengar" style="image-rendering: pixelated; opacity: 0.9;" />
 </p>
 
 ---
