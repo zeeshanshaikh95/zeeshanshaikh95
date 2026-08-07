@@ -34,6 +34,21 @@
 
 ---
 
+## 📚 Currently Learning
+
+> Always leveling up — here's my learning roadmap right now! 🎮
+
+- 🟣 **TypeScript** — making my React code type-safe and robust
+- ⚛️ **React & JavaScript Mastery** — hooks, context, and performance patterns
+- 🔧 **Node.js & Express** — REST APIs, authentication, and middleware
+- 🗄️ **MongoDB** — aggregation pipelines and schema design
+- 🐍 **Python** — exploring a new language alongside my web stack
+- 🐧 **Linux & Git** — sharpening my everyday dev workflow
+
+> 📖 Peek at my [web development learning](https://github.com/zeeshanshaikh95/webdev_learning) and [Python learning](https://github.com/zeeshanshaikh95/python_learning) repositories!
+
+---
+
 ## 🛠️ My Skills
 
 <p align="center">
