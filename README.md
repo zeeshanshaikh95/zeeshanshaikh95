@@ -1,11 +1,11 @@
 <!-- Gengar GitHub Profile README -->
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="290" align="right"  alt="Gengar" />
+ <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="200" align="right"  alt="Gengar" />
 <br/>
-<h1 style="font-size: 52px;">
+<h3 style="font-size: 52px;">
   Hello, I'm <i>Zeeshan Shaikh</i>
-</h1>
+</h3>
 
   <h3>
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MERN+Stack+Enthusiast;React+%C2%B7+Node.js+%C2%B7+MongoDB&font=Fira+Code&size=22&center=true&width=480&height=50&color=705898&vCenter=true&pause=800" alt="Typing effect intro" />
