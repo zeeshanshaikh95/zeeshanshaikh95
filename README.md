@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="180" align="right" alt="Gengar" />
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" align="right" alt="Gengar" />
   </p>
   <h1 style="font-size: 42px;">
   Hello, I'm <i>Zeeshan Shaikh</i>
@@ -63,13 +63,13 @@
 
 ## Stats & Activity
 
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/u/zeeshan955/">
     <img src="https://leetcard.jacoblin.cool/zeeshan955?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanshaikh95&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
