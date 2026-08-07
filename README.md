@@ -50,14 +50,30 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,html,css,git,github" alt="My Skills" />
 </p>
+<h2 align="center">💻 Tech Stack</h2>
 
-| Category | Technologies                       |
-| -------- | ---------------------------------- |
-| Frontend | React, JavaScript, HTML5, CSS3     |
-| Backend  | Node.js, Express.js                |
-| Database | MongoDB                            |
-| Tools    | Git, GitHub, VS Code               |
-
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>React, JavaScript, HTML5, CSS3</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Node.js, Express.js</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MongoDB</td>
+  </tr>
+  <tr>
+    <td>Tools</td>
+    <td>Git, GitHub, VS Code</td>
+  </tr>
+</table>
 ---
 
 ## Stats & Activity
