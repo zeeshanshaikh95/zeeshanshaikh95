@@ -54,6 +54,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanshaikh95&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanshaikh95&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.devomb.com/?username=zeeshanshaikh95&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
