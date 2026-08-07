@@ -15,9 +15,9 @@
     <a href="https://www.linkedin.com/in/zeeshan-shaikh-53a39027b/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+     <p>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" align="right" alt="Gengar" />
   </p>
-    <p>
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" align="bottom-right" alt="Gengar" />
   </p>
 </div>
 
