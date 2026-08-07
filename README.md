@@ -7,10 +7,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeeshanshaikh95&label=Profile%20Views&color=705898&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
   <a href="https://zeeshanshaikh95.github.io/my_portfolio/">
     <img src="https://img.shields.io/badge/My_Portfolio-705898?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
@@ -64,11 +60,12 @@
 
 ---
 
-## GitHub Stats
+## Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeshanshaikh95&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanshaikh95&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <a href="https://leetcode.com/u/zeeshan955/">
+    <img src="https://leetcard.jacoblin.cool/zeeshan955?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 <p align="center">
