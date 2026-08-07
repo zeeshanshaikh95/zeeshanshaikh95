@@ -8,7 +8,7 @@
   <h3>
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;MERN+Stack+Enthusiast;React+%C2%B7+Node.js+%C2%B7+MongoDB&font=Fira+Code&size=22&center=true&width=480&height=50&color=705898&vCenter=true&pause=800" alt="Typing effect intro" />
   </h3>
-   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="250" align="right" display: flex justify-content: flex-end align-items: flex-end alt="Gengar" />
+   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="280" align="right"  alt="Gengar" />
   <p>
     <a href="https://zeeshanshaikh95.github.io/my_portfolio/">
       <img src="https://img.shields.io/badge/My_Portfolio-705898?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
