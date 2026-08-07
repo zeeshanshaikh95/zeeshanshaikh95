@@ -74,24 +74,21 @@
     <td>Git, GitHub, VS Code</td>
   </tr>
 </table>
+
 ---
 
 ## Stats & Activity
-<div id=stats>
-<p align="center">
-  <a href="https://leetcode.com/u/zeeshan955/">
-    <img src="https://leetcard.jacoblin.cool/zeeshan955?theme=dark&font=Fira%20Code&ext=heatmap" width=40% alt="LeetCode Stats" />
-  </a>
-</p>
-
-</div>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeeshanshaikh95/zeeshanshaikh95/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeeshanshaikh95/zeeshanshaikh95/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/zeeshanshaikh95/zeeshanshaikh95/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/zeeshan955/">
+    <img src="https://leetcard.jacoblin.cool/zeeshan955?theme=dark&font=Fira%20Code&ext=heatmap" width=45% alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
