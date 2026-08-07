@@ -80,7 +80,7 @@
 <div id=stats>
 <p align="center">
   <a href="https://leetcode.com/u/zeeshan955/">
-    <img src="https://leetcard.jacoblin.cool/zeeshan955?theme=dark&font=Fira%20Code&ext=heatmap" width=90% alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/zeeshan955?theme=dark&font=Fira%20Code&ext=heatmap" width=70% alt="LeetCode Stats" />
   </a>
 </p>
 
