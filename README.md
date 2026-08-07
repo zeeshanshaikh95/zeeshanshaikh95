@@ -78,15 +78,12 @@
 
 ## Stats & Activity
 <div id=stats>
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/u/zeeshan955/">
-    <img src="https://leetcard.jacoblin.cool/zeeshan955?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/zeeshan955?theme=dark&font=Fira%20Code&ext=heatmap" width=90% alt="LeetCode Stats" />
   </a>
 </p>
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanshaikh95&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
 </div>
 
 <p align="center">
