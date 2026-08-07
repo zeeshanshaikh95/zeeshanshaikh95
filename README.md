@@ -1,9 +1,9 @@
-<!-- Gengar 👻 GitHub Profile README -->
+<!-- Gengar GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="110" alt="Animated Gengar pixel art" style="image-rendering: pixelated;" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="110" alt="Gengar pixel art" style="image-rendering: pixelated;" />
   <br />
-  👋 Hello, I'm <span style="color: #705898;">Zeeshan Shaikh</span>
+  Hello, I'm <span style="color: #705898;">Zeeshan Shaikh</span>
 </h1>
 
 <h3 align="center">
@@ -25,46 +25,46 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🚀 I'm a passionate **Full-Stack Developer** who loves building fast, modern web applications.
-- 🛠️ I specialize in the **MERN stack** — MongoDB, Express.js, React, and Node.js.
-- 🌱 Always learning new technologies and sharpening my problem-solving skills.
-- 👻 Fun fact: **Gengar is my favorite Pokémon** — sneaky, mysterious, and powerful… just like a well-written bug fix! 😄
-
----
-
-## 📚 Currently Learning
-
-> Always leveling up — here's my learning roadmap right now! 🎮
-
-- 🟣 **TypeScript** — making my React code type-safe and robust
-- ⚛️ **React & JavaScript Mastery** — hooks, context, and performance patterns
-- 🔧 **Node.js & Express** — REST APIs, authentication, and middleware
-- 🗄️ **MongoDB** — aggregation pipelines and schema design
-- 🐍 **Python** — exploring a new language alongside my web stack
-- 🐧 **Linux & Git** — sharpening my everyday dev workflow
-
-> 📖 Peek at my [web development learning](https://github.com/zeeshanshaikh95/webdev_learning) and [Python learning](https://github.com/zeeshanshaikh95/python_learning) repositories!
+- I'm a passionate **Full-Stack Developer** who loves building fast, modern web applications.
+- I specialize in the **MERN stack** — MongoDB, Express.js, React, and Node.js.
+- Always learning new technologies and sharpening my problem-solving skills.
+- Fun fact: **Gengar is my favorite Pokémon** — sneaky, mysterious, and powerful… just like a well-written bug fix!
 
 ---
 
-## 🛠️ My Skills
+## Currently Learning
+
+> Always leveling up — here's my learning roadmap right now:
+
+- **TypeScript** — making my React code type-safe and robust
+- **React & JavaScript Mastery** — hooks, context, and performance patterns
+- **Node.js & Express** — REST APIs, authentication, and middleware
+- **MongoDB** — aggregation pipelines and schema design
+- **Python** — exploring a new language alongside my web stack
+- **Linux & Git** — sharpening my everyday dev workflow
+
+> Peek at my [web development learning](https://github.com/zeeshanshaikh95/webdev_learning) and [Python learning](https://github.com/zeeshanshaikh95/python_learning) repositories!
+
+---
+
+## My Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,html,css,git,github" alt="My Skills" />
 </p>
 
-| Category        | Technologies                                  |
-| --------------- | --------------------------------------------- |
-| 🎨 **Frontend**   | React, JavaScript, HTML5, CSS3                |
-| ⚙️ **Backend**    | Node.js, Express.js                           |
-| 🗄️ **Database**   | MongoDB                                       |
-| 🧰 **Tools**      | Git, GitHub, VS Code                          |
+| Category | Technologies                       |
+| -------- | ---------------------------------- |
+| Frontend | React, JavaScript, HTML5, CSS3     |
+| Backend  | Node.js, Express.js                |
+| Database | MongoDB                            |
+| Tools    | Git, GitHub, VS Code               |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeeshanshaikh95&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
@@ -76,24 +76,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshanshaikh95&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeeshanshaikh95/zeeshanshaikh95/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeeshanshaikh95/zeeshanshaikh95/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/zeeshanshaikh95/zeeshanshaikh95/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.devomb.com/?username=zeeshanshaikh95&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🚀 My Projects
+## My Projects
 
 Here are some of the things I've built and learned along the way:
 
-| 📁 Project | 📝 Description | 🛠️ Tech |
+| Project | Description | Tech |
 | --- | --- | --- |
 | [My Portfolio](https://github.com/zeeshanshaikh95/my_portfolio) | My personal portfolio website — [live demo](https://zeeshanshaikh95.github.io/my_portfolio/) | TypeScript |
 | [Amber Restaurant](https://github.com/zeeshanshaikh95/amberrestaurant) | A restaurant web application with a modern, responsive UI | JavaScript |
@@ -102,11 +98,11 @@ Here are some of the things I've built and learned along the way:
 | [Web Dev Learning](https://github.com/zeeshanshaikh95/webdev_learning) | Everything I learned about web development from open source | HTML · CSS · JS |
 | [Python Learning](https://github.com/zeeshanshaikh95/python_learning) | Everything I learned about Python from open source | Python |
 
-> 💡 Want to see all my work? Check out [all repositories](https://github.com/zeeshanshaikh95?tab=repositories)!
+> Want to see all my work? Check out [all repositories](https://github.com/zeeshanshaikh95?tab=repositories)!
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://zeeshanshaikh95.github.io/my_portfolio/">
@@ -126,10 +122,10 @@ Here are some of the things I've built and learned along the way:
   </a>
 </p>
 
-- 🌍 **Portfolio:** [zeeshanshaikh95.github.io/my_portfolio](https://zeeshanshaikh95.github.io/my_portfolio/)
-- 🐙 **GitHub:** [@zeeshanshaikh95](https://github.com/zeeshanshaikh95)
-- ✉️ **Email:** [shaikhzeeshan9511@gmail.com](mailto:shaikhzeeshan9511@gmail.com)
+- **Portfolio:** [zeeshanshaikh95.github.io/my_portfolio](https://zeeshanshaikh95.github.io/my_portfolio/)
+- **GitHub:** [@zeeshanshaikh95](https://github.com/zeeshanshaikh95)
+- **Email:** [shaikhzeeshan9511@gmail.com](mailto:shaikhzeeshan9511@gmail.com)
 
 ---
 
-<p align="center">Made with ❤️ by Zeeshan Shaikh 👻</p>
+<p align="center">Made by Zeeshan Shaikh</p>
