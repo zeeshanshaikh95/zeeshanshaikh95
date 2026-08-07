@@ -43,7 +43,7 @@
 - **Python** — exploring a new language alongside my web stack
 - **Linux & Git** — sharpening my everyday dev workflow
 
-> Peek at my [$\textsf{\color{#6C5494}web development learning}$](https://github.com/zeeshanshaikh95/webdev_learning) and [$\textsf{\color{#6C5494}Python learning}$](https://github.com/zeeshanshaikh95/python_learning) repositories!
+> Peek at my [web development learning](https://github.com/zeeshanshaikh95/webdev_learning) and [Python learning](https://github.com/zeeshanshaikh95/python_learning) repositories!
 
 ---
 
@@ -79,7 +79,7 @@
 
 ---
 
-## ${\color{#6C5494}\textsf{Stats \& Activity}}$
+## ${\color{#6C5494}\textsf{Stats}}$ & ${\color{#6C5494}\textsf{Activity}}$
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeeshanshaikh95/zeeshanshaikh95/output/github-contribution-grid-snake-dark.svg" />
@@ -101,14 +101,14 @@ Here are some of the things I've built and learned along the way:
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [$\textsf{\color{#6C5494}My Portfolio}$](https://github.com/zeeshanshaikh95/my_portfolio) | My personal portfolio website — [$\textsf{\color{#6C5494}live demo}$](https://zeeshanshaikh95.github.io/my_portfolio/) | TypeScript |
-| [$\textsf{\color{#6C5494}Amber Restaurant}$](https://github.com/zeeshanshaikh95/amberrestaurant) | A restaurant web application with a modern, responsive UI | JavaScript |
-| [$\textsf{\color{#6C5494}PicToURL}$](https://github.com/zeeshanshaikh95/PicToURL) | Image-to-URL tool built with Node.js — [$\textsf{\color{#6C5494}frontend repo}$](https://github.com/zeeshanshaikh95/PicToURL-frontend) | Node.js · HTML/CSS |
-| [$\textsf{\color{#6C5494}JavaScript Mastery}$](https://github.com/zeeshanshaikh95/javascript_webpage) | Interactive course site covering 75 JavaScript concepts | JavaScript · HTML · CSS |
-| [$\textsf{\color{#6C5494}Web Dev Learning}$](https://github.com/zeeshanshaikh95/webdev_learning) | Everything I learned about web development from open source | HTML · CSS · JS |
-| [$\textsf{\color{#6C5494}Python Learning}$](https://github.com/zeeshanshaikh95/python_learning) | Everything I learned about Python from open source | Python |
+| [My Portfolio](https://github.com/zeeshanshaikh95/my_portfolio) | My personal portfolio website — [live demo](https://zeeshanshaikh95.github.io/my_portfolio/) | TypeScript |
+| [Amber Restaurant](https://github.com/zeeshanshaikh95/amberrestaurant) | A restaurant web application with a modern, responsive UI | JavaScript |
+| [PicToURL](https://github.com/zeeshanshaikh95/PicToURL) | Image-to-URL tool built with Node.js — [frontend repo](https://github.com/zeeshanshaikh95/PicToURL-frontend) | Node.js · HTML/CSS |
+| [JavaScript Mastery](https://github.com/zeeshanshaikh95/javascript_webpage) | Interactive course site covering 75 JavaScript concepts | JavaScript · HTML · CSS |
+| [Web Dev Learning](https://github.com/zeeshanshaikh95/webdev_learning) | Everything I learned about web development from open source | HTML · CSS · JS |
+| [Python Learning](https://github.com/zeeshanshaikh95/python_learning) | Everything I learned about Python from open source | Python |
 
-> Want to see all my work? Check out [$\textsf{\color{#6C5494}all repositories}$](https://github.com/zeeshanshaikh95?tab=repositories)!
+> Want to see all my work? Check out [all repositories](https://github.com/zeeshanshaikh95?tab=repositories)!
 
 ---
 
@@ -132,9 +132,9 @@ Here are some of the things I've built and learned along the way:
   </a>
 </p>
 
-- **Portfolio:** [$\textsf{\color{#6C5494}zeeshanshaikh95.github.io/my_portfolio}$](https://zeeshanshaikh95.github.io/my_portfolio/)
-- **GitHub:** [$\textsf{\color{#6C5494}@zeeshanshaikh95}$](https://github.com/zeeshanshaikh95)
-- **Email:** [$\textsf{\color{#6C5494}shaikhzeeshan9511@gmail.com}$](mailto:shaikhzeeshan9511@gmail.com)
+- **Portfolio:** [zeeshanshaikh95.github.io/my_portfolio](https://zeeshanshaikh95.github.io/my_portfolio/)
+- **GitHub:** [@zeeshanshaikh95](https://github.com/zeeshanshaikh95)
+- **Email:** [shaikhzeeshan9511@gmail.com](mailto:shaikhzeeshan9511@gmail.com)
 
 ---
 
