@@ -1,9 +1,7 @@
 <!-- Gengar GitHub Profile README -->
 
 <div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" align="bottom-right" alt="Gengar" />
-  </p>
+
   <h1 style="font-size: 42px;">
   Hello, I'm <i>Zeeshan Shaikh</i>
 </h1>
@@ -17,6 +15,9 @@
     <a href="https://www.linkedin.com/in/zeeshan-shaikh-53a39027b/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+  </p>
+    <p>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" align="bottom-right" alt="Gengar" />
   </p>
 </div>
 
