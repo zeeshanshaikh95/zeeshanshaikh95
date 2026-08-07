@@ -43,7 +43,7 @@
 - **Python** — exploring a new language alongside my web stack
 - **Linux & Git** — sharpening my everyday dev workflow
 
-> Peek at my<a href="https://github.com/zeeshanshaikh95/webdev_learning" style="color: #ff5733; font-weight: bold;">web development learning</a>
+> Peek at my <a href="https://github.com/zeeshanshaikh95/webdev_learning" style="color: #6c5494; font-weight: bold;">web development learning</a>
  and [Python learning](https://github.com/zeeshanshaikh95/python_learning) repositories!
 
 ---
