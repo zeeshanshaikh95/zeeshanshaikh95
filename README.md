@@ -68,6 +68,23 @@
 
 ---
 
+## 🚀 My Projects
+
+Here are some of the things I've built and learned along the way:
+
+| 📁 Project | 📝 Description | 🛠️ Tech |
+| --- | --- | --- |
+| [My Portfolio](https://github.com/zeeshanshaikh95/my_portfolio) | My personal portfolio website — [live demo](https://zeeshanshaikh95.github.io/my_portfolio/) | TypeScript |
+| [Amber Restaurant](https://github.com/zeeshanshaikh95/amberrestaurant) | A restaurant web application with a modern, responsive UI | JavaScript |
+| [PicToURL](https://github.com/zeeshanshaikh95/PicToURL) | Image-to-URL tool built with Node.js — [frontend repo](https://github.com/zeeshanshaikh95/PicToURL-frontend) | Node.js · HTML/CSS |
+| [JavaScript Mastery](https://github.com/zeeshanshaikh95/javascript_webpage) | Interactive course site covering 75 JavaScript concepts | JavaScript · HTML · CSS |
+| [Web Dev Learning](https://github.com/zeeshanshaikh95/webdev_learning) | Everything I learned about web development from open source | HTML · CSS · JS |
+| [Python Learning](https://github.com/zeeshanshaikh95/python_learning) | Everything I learned about Python from open source | Python |
+
+> 💡 Want to see all my work? Check out [all repositories](https://github.com/zeeshanshaikh95?tab=repositories)!
+
+---
+
 ## 🌐 Connect With Me
 
 - 🌍 **Portfolio:** [zeeshanshaikh95.github.io/my_portfolio](https://zeeshanshaikh95.github.io/my_portfolio/)
