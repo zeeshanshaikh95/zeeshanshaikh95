@@ -25,10 +25,8 @@
 - I'm a passionate **Full-Stack Developer** who loves building fast, modern web applications.
 - I specialize in the **MERN stack** — MongoDB, Express.js, React, and Node.js.
 - Always learning new technologies and sharpening my problem-solving skills.
-- Fun fact: **Gengar is my favorite Pokémon** — sneaky, mysterious, and powerful… just like a well-written bug fix!
-<p>
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" align="right" alt="Gengar" />
-  </p>
+- Fun fact: **Gengar is my favorite Pokémon** — sneaky, mysterious, and powerful… just like a well-written bug fix!    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" align="right" alt="Gengar" />
+  
 ---
 
 ## Currently Learning
