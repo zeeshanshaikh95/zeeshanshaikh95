@@ -1,5 +1,5 @@
 <!-- Gengar GitHub Profile README -->
-<br/>
+<br/><br/>
 <div align="center">
  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="200" align="right"  alt="Gengar" />
 
