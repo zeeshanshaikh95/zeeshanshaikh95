@@ -1,7 +1,7 @@
 <!-- Gengar GitHub Profile README -->
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="270" align="right"  alt="Gengar" />
+ <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="290" align="right"  alt="Gengar" />
 
 <h1 style="font-size: 42px;">
   Hello, I'm <i>Zeeshan Shaikh</i>
